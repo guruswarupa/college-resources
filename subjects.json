@@ -1,0 +1,372 @@
+{
+  "courses": [
+    {
+      "name": "1st year",
+      "subjects": [
+        { "name": "Mathematics-I for CSE Stream" },
+        { "name": "Mathematics-I for EEE Stream" },
+        { "name": "Mathematics-I for Civil Engg. Stream" },
+        { "name": "Mathematics-I for ME Stream" },
+        { "name": "Applied Physics for CSE Stream" },
+        { "name": "Applied Physics for EEE Stream" },
+        { "name": "Applied Chemistry for CSE Stream" },
+        { "name": "Applied Chemistry for Civil Stream" },
+        { "name": "Applied Chemistry for ME Stream" },
+        { "name": "Applied Physics for Civil Engg. stream" },
+        { "name": "Applied Physics for ME stream" },
+        { "name": "Applied Chemistry for CSE stream" },
+        { "name": "Chemistry for EEE stream" },
+        { "name": "Elements of Electrical Engineering" },
+        { "name": "Principles of Programming Using C" },
+        { "name": "Basic Electronics" },
+        { "name": "Engineering Mechanics" },
+        { "name": "Elements of Mechanical Engineering" },
+        { "name": "Introduction to Electrical Engineering" },
+        { "name": "Introduction to Electronics & Communication" },
+        { "name": "Introduction to Mechanical Engineering" },
+        { "name": "Introduction to C Programming" },
+        { "name": "Introduction to Civil Engineering" },
+        { "name": "Introduction to Internet of Things (IOT)" },
+        { "name": "Introduction to Python Programming" },
+        { "name": "Renewable Energy Sources" },
+        { "name": "Professional Writing Skills in English" },
+        { "name": "Communicative English" },
+        { "name": "Samskrutika Kannada" },
+        { "name": "Balake Kannada" },
+        { "name": "Indian Constitution" },
+        { "name": "Innovation and Design Thinking" },
+        { "name": "Scientific Foundations of Health" },
+        { "name": "Computer Aided Engineering Drawing" }
+      ]
+    },    
+    {
+      "name": "CSE",
+      "semesters": [
+        {
+          "name": "SEM3",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM4",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM5",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM6",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM7",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM8",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ISE",
+      "semesters": [
+        {
+          "name": "SEM3",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM4",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM5",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM6",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM7",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM8",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CSE-IOT",
+      "semesters": [
+        {
+          "name": "SEM3",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM4",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM5",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM6",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM7",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM8",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CSE-AIML",
+      "semesters": [
+        {
+          "name": "SEM3",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM4",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM5",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM6",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM7",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM8",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ECE",
+      "semesters": [
+        {
+          "name": "SEM3",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM4",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM5",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM6",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM7",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM8",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "EEE",
+      "semesters": [
+        {
+          "name": "SEM3",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM4",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM5",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM6",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM7",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM8",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MECH",
+      "semesters": [
+        {
+          "name": "SEM3",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM4",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM5",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM6",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM7",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        },
+        {
+          "name": "SEM8",
+          "subjects": [
+            { "name": "Subject 1" },
+            { "name": "Subject 2" }
+          ]
+        }
+      ]
+    }
+  ]
+}
