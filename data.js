@@ -30,6 +30,13 @@ const subjectsData = {
           { code: "21POP303", name: "Computer Science Fundamentals", credits: 3 },
           // Add more subjects as needed
         ],
+        "CSE-AIML": {
+        "Physics Cycle": [
+          { code: "21MAS301", name: "Mathematics", credits: 4 },
+          { code: "21PHS302", name: "Physics", credits: 4 },
+          { code: "21POP303", name: "Computer Science Fundamentals", credits: 3 },
+          // Add more subjects as needed
+        ],
         // Add more courses if needed
       },
       // Add more branches as needed
